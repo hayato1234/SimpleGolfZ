@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.smileman.toshiba.simplegolfz.MainActivity">
+    <item
+        android:id="@+id/go_back"
+        android:orderInCategory="100"
+        android:title="@string/go_back"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/see_result"
+        android:orderInCategory="100"
+        android:title="@string/go_to_result"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_hole_number"
+        android:orderInCategory="100"
+        android:title="@string/half_9_holes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_hole_number2"
+        android:orderInCategory="100"
+        android:title="@string/full_18_holes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/reset_socre"
+        android:title="@string/reset_score"
+        app:showAsAction="never" />
+
+</menu>

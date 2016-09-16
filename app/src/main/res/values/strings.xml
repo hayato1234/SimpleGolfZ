@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SimpleGolfZ</string>
+    <string name="action_settings">See Records</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_this_course">Play this Course</string>
+    <string name="title_activity_playing_course">PlayingCourse</string>
+    <string name="edit_score">Edit Score</string>
+    <string name="title_activity_result_page">ResultPage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="go_back">Go Back</string>
+    <string name="change_course">Change Course</string>
+    <string name="title_activity_show_course_info">ShowCourseInfo</string>
+    <string name="go_to_result">Go to Result</string>
+    <string name="half_9_holes">Half(9 holes)</string>
+    <string name="full_18_holes">Full(18 holes)</string>
+    <string name="title_activity_show_detail_data">ShowDetailData</string>
+    <string name="blue">Blue</string>
+    <string name="course">Course</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="play_time">play time</string>
+    <string name="score">Score :</string>
+    <string name="title_activity_result_page_z">ResultPageZ</string>
+    <string name="reset_score">Reset Score</string>
+    <string name="ask_reset">Reset score?</string>
+    <string name="temperature">Temperature:</string>
+    <string name="weather">Weather:</string>
+    <string name="play_time_">Play time:</string>
+    <string name="tempreture_is">, Tempreture is</string>
+    <string name="temprature_is">, Temprature is</string>
+    <string name="temperature_is">, temperature is :</string>
+    <string name="click_to_access_information">Click to access information</string>
+</resources>
